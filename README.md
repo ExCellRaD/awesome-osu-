@@ -31,7 +31,7 @@ see: [awesome.re](https://awesome.re)
 ### Generators
 - [osusig](https://lemmmy.pw/osusig/) - osu!next Signature Generator.
 - [osu!skinner](https://osuskinner.com/) - A tool for making custom skins easily.
-- [osu! online healthbar generator](https://pqqqqw.pw/generator/) A small online utility that creates custom healthbars for osu!
+- [osu! online healthbar generator](https://agube.lu/generator/) A web app that creates custom healthbars for osu!
 
 ### Stats
 - [osu!chan](https://syrin.me/osuchan/) - Enter your osu! username to check out your stats.
